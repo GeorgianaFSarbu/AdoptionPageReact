@@ -1,0 +1,68 @@
+html {
+  font-size: 20px;
+}
+body {
+  padding: 1rem;
+}
+
+.card {
+  background-image: url(https://media.istockphoto.com/id/930281684/photo/dogs-and-cats-peeking-over-web-banner.jpg?s=170667a&w=0&k=20&c=cbj0QmTeuQuaa8ZnoDSQdbLv9DHNmW3t8d5sIqSRC2c=);
+  color: black;
+  padding: 1rem;
+  height: 10rem;
+}
+
+.cards {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: grid;
+  gap: 1rem;
+}
+
+.img {
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.buttons {
+  display: block;
+  text-align: center;
+}
+.edit {
+  display: inline-block;
+  background-color: pink;
+  padding: 20px;
+  width: 75px;
+  color: #ffffff;
+  text-align: center;
+  border: 4px double #cccccc;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.edit:hover {
+  background-color: green;
+}
+
+.delete {
+  display: inline-block;
+  background-color: pink;
+  padding: 20px;
+  width: 75px;
+  color: #ffffff;
+  text-align: center;
+  border: 4px double #cccccc;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 5px;
+}
+.delete:hover {
+  background-color: red;
+}
+
+grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));

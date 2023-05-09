@@ -1,0 +1,195 @@
+{
+  "users": [
+    {
+      "email": "r.r@gmail.com",
+      "password": "$2a$10$KIBGSmgBsiN8fPnejw8ts./eGuy5eukwiU79t93TBEd3ZOrriErd2",
+      "fName": "Ana",
+      "lName": "Ioana",
+      "id": 10
+    },
+    {
+      "email": "b@b",
+      "password": "$2a$10$GB3pyLiQ3dkhOgfO11cQHO5LYwVn/s3tG3AFNhT.yYawJ4W6s3tUK",
+      "fName": "Ion",
+      "lName": "Mihai",
+      "id": 11
+    },
+    {
+      "email": "r.r@com",
+      "password": "$2a$10$RFmcw6JY/tnp3/6iCqZkiuHXs/B4ba36ysv8nnF1TMKlzpTRUuBl2",
+      "fName": "Radu",
+      "lName": "Ion",
+      "id": 12
+    },
+    {
+      "email": "k@k.com",
+      "password": "$2a$10$T7lHDT1clBPcnk/UAr8gN.9A4ArbfZ5IThJ1wKDXmy7TSAbSQwq9e",
+      "fName": "Ana",
+      "lName": "Ioana",
+      "id": 13
+    },
+    {
+      "email": "o@o.com",
+      "password": "$2a$10$//kZtltpzRdGfILIRu1tfO2tqk9Tafjqy9BK/2j6gPB4xNSwhXkuC",
+      "fName": "ana",
+      "lName": "mar",
+      "id": 14
+    },
+    {
+      "email": "s@s.com",
+      "password": "$2a$10$u53xkbdQUlpB8LC84oTi.uDe4OCBMeSyQoOQqXcXyfdzHyXTKx4vK",
+      "fName": "Sydnei",
+      "lName": "Alu",
+      "id": 15
+    },
+    {
+      "email": "gg@aa.com",
+      "password": "$2a$10$hAvsvFaKGVavDbDn5pzVROi0vb/AERydg8.WZrw5a3l5jEOssTBPm",
+      "fName": "Alin",
+      "lName": "Ionescu",
+      "id": 16
+    },
+    {
+      "email": "i@i",
+      "password": "$2a$10$M1Y2l5e9Nq2qeUCPx387YONkGVk03AMJDWYhHW0zfd7lKI9Q1W4DK",
+      "fName": "xxx",
+      "lName": "aaa",
+      "id": 17
+    },
+    {
+      "email": "q@q.com",
+      "password": "$2a$10$R388QKPQACLYvyPUnz0wiuaZj4Mq9r9/mW51FqQJxSvKAEGHL300a",
+      "fName": "Kiki",
+      "lName": "Kova",
+      "id": 18
+    },
+    {
+      "email": "z@z.com",
+      "password": "$2a$10$LzFn6QrHWsJS3A9xNQnE1.Hztx3eBH0RkAkQZjLCk9lWIY1AtvJ7S",
+      "fName": "Iova",
+      "lName": "Ioniva",
+      "id": 19
+    },
+    {
+      "email": "c@c.com",
+      "password": "$2a$10$BaQNowBCjENXNsO5STVNi.UT0v0CNskZh7i9nzZV1IpLyKMAb/24a",
+      "fName": "Popescuf",
+      "lName": "Mihai",
+      "id": 20
+    },
+    {
+      "email": "x@xx.com",
+      "password": "$2a$10$gxrThPmLVwRKPYHOYKB5w.HuioQnQI1BLL9NzdP8NUBOdh/fB.a0.",
+      "fName": "XXX",
+      "lName": "XXX",
+      "id": 21
+    },
+    {
+      "email": "",
+      "password": "$2a$10$jPW29j8sBDcxTDqE67tDtu8gQ6d/lNB2RTE6fvkncHaeY7X.cvgvC",
+      "fName": "gggg",
+      "lName": "gg",
+      "id": 22,
+      "adress": "ggg",
+      "date_of_birth": ""
+    },
+    {
+      "email": "",
+      "password": "$2a$10$9XtQEnYkhyptCIJ.cFGJqefqP4Vq0EJDfCvpnXbGQTg9A9LDQrqiy",
+      "fName": "Ana",
+      "lName": "Marei",
+      "id": 23,
+      "date_of_birth": "",
+      "adress": ""
+    },
+    {
+      "email": "p@p.com",
+      "password": "$2a$10$S.1/8YqOUSdo93x2n4cNou71y/VAbqBHQqo2D.YKF0LUFCxbz.XgS",
+      "fName": "Paul",
+      "lName": "Ionivaegfhhjog",
+      "id": 24,
+      "date_of_birth": "2023-04-13",
+      "adress": "xxxx1i"
+    },
+    {
+      "email": "ioi@ioi.com",
+      "password": "$2a$10$EJgLX1f.synTgS6IjzvWYOMsCk0eOPpwYv1Dyv9UqXDHSaoEVWfaS",
+      "fName": "Ionuy",
+      "lName": "Vasile",
+      "id": 25
+    },
+    {
+      "email": "joi@joi.com",
+      "password": "$2a$10$502GZZFqfCRI7HqMsFMYW..TE33PGXyDUelijxKZ9Q85oHRANRWie",
+      "fName": "Joi",
+      "lName": "ANA",
+      "id": 26
+    },
+    {
+      "email": "login@alo.com",
+      "password": "$2a$10$qgVlFzPQe.cKSLz6lp0KAOMVzV8w/okYdIZo6htflC81wpcyKAm4.",
+      "fName": "ssss",
+      "lName": "sgfgrdd",
+      "id": 27
+    },
+    {
+      "email": "ioana.andrei@yahoo.com",
+      "password": "$2a$10$2kltEqirqVhWszMxb15A2e8xoKEc.ipmi.xlpDxVZ2XngsZwNDtb.",
+      "fName": "Ioana",
+      "lName": "Andrei",
+      "id": 28
+    }
+  ],
+  "dogs": [
+    {
+      "title": "Nero",
+      "age": 1,
+      "description": "These are fairly laid-back dogs, not usually given to extensive barking, digging or chewing. Pugs tend to get along well with other dogs and are sturdy enough to get along with children. They enjoy company and can be quite affectionate. True to their grouping, they are good companion dogs.",
+      "breed": "pug",
+      "poster": "https://highlandcanine.com/wp-content/uploads/2021/04/pug-running-in-the-grass-2048x1363.jpg",
+      "producer": "Canisa Romland Kennel",
+      "date_of_birth": "2022-05-25",
+      "id": 1
+    },
+    {
+      "title": "Ronnie",
+      "age": 1,
+      "description": "The Pug has been bred to be a companion and a pleasure to his owners. He has an even and stable temperament, great charm, and an outgoing, loving disposition. Pugs live to please their people, so they are generally easy to train",
+      "breed": "pug",
+      "poster": "https://highlandcanine.com/wp-content/uploads/2021/04/black-pug-in-forest-laying-down-1536x1152.jpg",
+      "producer": "Canisa Romland Kennel",
+      "date_of_birth": "2022-05-17",
+      "id": 2
+    },
+    {
+      "title": "Alfonso",
+      "description": "The dachshund also known as the wiener dog, badger dog, doxie, and sausage dog, is a short-legged, long-bodied, hound-type dog breed. The dog may be smooth-haired, wire-haired, or long-haired, and comes in a variety of colors.",
+      "breed": "sausage dog",
+      "poster": "https://www.hepper.com/wp-content/uploads/2021/11/rsz_shutterstock_1305194458.jpg",
+      "producer": "",
+      "date_of_birth": "2021-07-12",
+      "userId": 15,
+      "id": 3
+    },
+    {
+      "title": "Martin",
+      "description": "Pugs tend to be smart, observant, and quick learners.",
+      "breed": "",
+      "poster": "https://marshallspetzone.com/blog/wp-content/uploads/2016/12/5.jpg",
+      "producer": "",
+      "date_of_birth": "2023-01-01",
+      "userId": 15,
+      "id": 4
+    },
+    {
+      "title": "Ty",
+      "description": "",
+      "breed": "",
+      "poster": "https://assets.wagwalkingweb.com/media/original_images/how-to-prepare-for-a-pembroke-welsh-corgi-puppy-create-a-schedule.jpg",
+      "producer": "",
+      "date_of_birth": "",
+      "userId": 15,
+      "id": 5
+    }
+  ]
+}
